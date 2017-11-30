@@ -1,4 +1,4 @@
-# rps_sim
+# dwayne 'the ROCK' Johnson, PAPER, edward SCISSORhands
 Pretty much just rock, paper, scissors.
 
 HELLO:
